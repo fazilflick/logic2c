@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.carousel slide h5 p{
+
+  font-size: 200px;
+  /* color: blue; */
+  
+}
+.box1{
+  height: 800px;
+  background-color: antiquewhite;
+
+}
+.shape1{
+  height: 160px;
+  background-color: #f19a0e;
+  position: relative;
+  top: 100px;
+}
+.card-group{
+  margin-top: -140px;
+
+}
+.card-group ,.card{
+width: 1000px;
+position: relative;
+justify-content: center !important;
+/* left: 50px; */
+/* right: 50%; */
+}
+.logo{
+  height: 20px;
+  width: 20px;
+}
